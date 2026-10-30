@@ -80,16 +80,7 @@
 
 ---
 
-### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| ☀️ [Solar Smart Energy Dashboard](https://github.com/meet37978-cell/Solar-Smart-Energy-Dashboard) | 10-page dashboard to monitor solar plant performance. Compares 4 regression models (Linear, Polynomial, KNN, Decision Tree) for AC power prediction using R², MAE, MSE, plus a 25-year ROI projection tool. | Python, Streamlit, Pandas, Plotly, Scikit-learn |
-| 🧑‍🎓 [Smart Student Attendance System](https://github.com/meet37978-cell/Smart-Student-Attendance-System) | 6-page face-recognition attendance app with real-time webcam recognition, confidence scoring, duplicate-entry prevention, attendance history, and CSV export. | Python, Streamlit, SQLite, Deep Learning |
-| 🚦 [Traffic Accident Risk Prediction System](https://github.com/meet37978-cell/Traffic-Accident-Risk-Prediction) | Accident analysis platform with 19 data fields, Random Forest risk scoring across 6 features, Folium maps, and Gemini AI for natural-language SQL queries and voice responses. | Python, Streamlit, SQLite, Folium, Scikit-learn, Gemini AI |
-| 🏏 [IPL Cricket Analytics Dashboard](https://github.com/meet37978-cell/IPL-Cricket-Analytics-Dashboard) | 5-page dashboard covering 18 IPL seasons (2008–2025): team comparison, head-to-head stats, Orange/Purple Cap leaderboards, points tables, and Net Run Rate. | Python, Streamlit, Pandas, NumPy, Plotly, Matplotlib |
-
----
 
 ### 📈 GitHub Stats
 
